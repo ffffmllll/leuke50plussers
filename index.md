@@ -15,5 +15,7 @@
 <embed src="/music/sneaky_snitch.mp3" width="180" height="90" hidden="true" />
 </audio>
 
+<p><img src="https://html-online.com/editor/tiny4_9_11/plugins/emoticons/img/smiley-cool.gif" alt="cool" /></p>
+
 </body>
 </html>
