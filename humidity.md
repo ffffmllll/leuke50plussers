@@ -6,11 +6,11 @@
 <p>leuke 50 plussers</p>
 
 <audio controls>
-  <source src="new_beginning.wav" type="audio/wav">
+  <source src="music/new_beginning.wav" type="audio/wav">
 </audio>
 
 <audio controls>
-  <source src="mistakes.wav" type="audio/wav">
+  <source src="music/mistakes.wav" type="audio/wav">
 </audio>
 
 </body>
