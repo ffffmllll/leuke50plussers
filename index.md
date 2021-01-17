@@ -1,4 +1,7 @@
 <html>
+<head>
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+</head>
 <body>
 
 <h1>LEUKE 50 PLUSSERS . TK !!!!!!!!</h1>
