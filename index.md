@@ -19,5 +19,7 @@
   
 <p><img src="https://html-online.com/editor/tiny4_9_11/plugins/emoticons/img/smiley-cool.gif" alt="cool" /></p>
 
+<p><img src="https://i.pinimg.com/564x/51/22/83/5122833511c5b864659fa96a965798a9.jpg" alt="japanese milk vending machine" /></p>
+
 </body>
 </html>
