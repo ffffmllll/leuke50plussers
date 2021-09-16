@@ -9,8 +9,9 @@
 <p>leuke 50 plussers</p>
 
 <p>andere paginas:</p>
-  <a href="http://map.leuke50plussers.nl/">minecraft server kaart</a>
-  <a href="https://www.leuke50plussers.nl/fotos">fotos</a>
+<a href="http://map.leuke50plussers.nl/">minecraft server kaart</a>
+
+<a href="https://www.leuke50plussers.nl/fotos">fotos</a>
  
 <h2>deze website is gemaakt door finn... het is niet echt over leuke 50 plussers dat is de grap juist.</h2>
 
