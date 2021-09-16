@@ -14,4 +14,6 @@
 <p>ik wil echt in een stad waar alles zo dicht op elkaar is dat er een trap door een trein word onderbroken wonen.</p>
 <p><img src="https://i.pinimg.com/564x/f4/99/ad/f499ad17f0ffcb996398e0ec441fa29e.jpg" alt="small city house in tallinn" /></p>
 <p>tallinn, estland</p>
-<p>ik wil zo graag een keer naar de baltische staten</p>
+<p><img src="https://i.pinimg.com/564x/8c/00/0a/8c000ac47cccc3d73042ee14b9c8f711.jpg" alt="street in vilnius" /></p>
+<p>vlinius, litouwen</p>
+<p>ik zou mezelf eigenlijk best wel in een klein apartement in vilnius zien wonen alleen er zijn echt geen gay rights daar. ik hoop dat op een dag de hele wereld word zoals nederland nu is of beter zelfs.</p>
