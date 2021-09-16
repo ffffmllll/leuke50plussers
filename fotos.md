@@ -1,4 +1,4 @@
-<p>Mijn aesthetic hopelijk.</p>
+<a href="www.leuke50plussers.nl">home</a>
 <p><img src="https://i.pinimg.com/564x/1e/ca/18/1eca187ceb502afe4f692a93631be4ed.jpg" alt="moon room" /></p>
 <p><img src="https://i.pinimg.com/564x/87/44/78/87447865d6be26c58240420403339c7c.jpg" alt="apartment" /></p>
 <p>ik wil ZO graag ooit een apartement met een vloer zoals dit.</p>
